@@ -19,7 +19,7 @@
 			<?php the_content(); ?>                            
 		</div>                               
 		<?php wp_link_pages(); ?>                                                                                  
-	  	<?php comments_template(); ?>                       
+		                        
 	</div>        
 <?php endwhile; ?>        
 <?php endif; ?>  
